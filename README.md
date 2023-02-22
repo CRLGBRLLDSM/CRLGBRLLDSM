@@ -1,7 +1,4 @@
-Hi, I’m @CRLGBRLLDSM
-I’m interested in C#, Java, HTML, JavaScript...
-I’m currently learning C#, Python, JavaScript...
-
+Casual Script Writing
 
 <!---
 CRLGBRLLDSM/CRLGBRLLDSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

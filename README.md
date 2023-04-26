@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kykkrgr</h1>
 <h3 align="center">Someone that writes programs for themselves</h3>
 
-- 🌱 I’m currently learning **Python, Android Studio**
+- 🌱 I’m currently learning **Kotlin, Android Studio**
 
 - ⚡ Fun fact **I am funny.**
 

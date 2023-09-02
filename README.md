@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kykkrgr</h1>
-<h3 align="center">Someone that writes programs for themselves</h3>
+<h3 align="center">I like Machine Learning Now</h3>
 
 - 🌱 I’m currently learning **Azure Data Fundamentals**
 

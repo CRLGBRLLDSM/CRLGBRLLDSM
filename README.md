@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Kykkrgr</h1>
-<h3 align="center">I like Machine Learning Now</h3>
+<h1 align="center">About me</h1>
+<h3 align="center">I make AI n stuff</h3>
 
-- 🌱 I’m currently learning **Azure Data Fundamentals**
-
-- ⚡ Fun fact **I am funny.**
+- 🌱 I’m learning **Tensorflow**
 
 # Favorite Tools:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
